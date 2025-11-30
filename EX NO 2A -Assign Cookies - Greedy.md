@@ -29,7 +29,7 @@ Print the total number of content (satisfied) children i and stop the program.
 ```
 /*
 Developed by:KANNAN N
-RegisterNumber: 212223240097
+RegisterNumber: 212223230097
 */
 
 import java.util.*;
